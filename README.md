@@ -1,7 +1,7 @@
 # MongoDB com o NodeJS
 Projeto Node com o MongoDB
 
-## Comandos
+## Comandos no terminal
 acessar o Mongo
 ````shel
 Mongo
