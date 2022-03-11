@@ -1,8 +1,9 @@
 # MongoDB com o NodeJS
 Projeto Node com o MongoDB
 
-## Comandos no terminal
-acessar o Mongo
+<h2 class='Terminal'> Comandos no terminal </h2>
+
+Acessar o Mongo
 ````shel
 Mongo
 ````
@@ -18,4 +19,8 @@ Monstrar bancos na máquina
 Monstrar as collection
 ````shel
 show collections
+````
+Ver Conteúdo dentro da collection
+````shel
+db.<nome da collection>.find()
 ````
