@@ -1,5 +1,5 @@
 # MongoDB com o NodeJS
-Projeto Node com o MongoDB
+Caderno com anotações sobre o MongoDB usado junto com o NodeJS
 
 <h2 class='Terminal'> Comandos no terminal </h2>
 
