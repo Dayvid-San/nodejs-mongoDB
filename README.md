@@ -1,7 +1,14 @@
 # MongoDB com o NodeJS
 Caderno com anotações sobre o MongoDB usado junto com o NodeJS
 
-<h2 class='Terminal'> Comandos no terminal </h2>
+#### Para se localizar
+<ul>
+    <li>
+        <a href="#terminal">Comandos no terminal</a>
+    </li>
+</ul>
+
+<h2 name='terminal'> Comandos no terminal </h2>
 
 Acessar o Mongo
 ````shel
